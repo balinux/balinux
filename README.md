@@ -7,3 +7,5 @@ kenalkan saya rio(biasa dikenal balinux/yhotie)
 - blogger pemalas [yhotie.com](https://yhotie.com).
 
 > dah gitu aja
+
+[![Balinux's GitHub stats](https://github-readme-stats.vercel.app/api?username=balinux)](https://github.com/anuraghazra/github-readme-stats)
