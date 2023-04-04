@@ -24,10 +24,10 @@ kenalkan saya rio(biasa dikenal balinux/yhotie)
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
 - [How to prevent GitHub from suspending your cronjob based triggers](https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf)
-- [How I built one of the top 20 most used Github Actions](https://www.gautamkrishnar.com/how-i-built-one-of-the-top-20-most-used-github-actions/)
 - [template login hotspot mikrotik neumorphism](https://yhotie.com/blog/template-login-hotspot-mikrotik-neumorphism/)
 - [2. pembuatan bot telegram -  membuat bot telegram dengan nodejs dan dasar basic telegraf](https://yhotie.com/blog/2-pembuatan-bot-telegram-membuat-bot-dan-dasar-basic-telegraf/)
 - [1. pembuatan bot telegram- pengenalan aplikasi dan perangkat](https://yhotie.com/blog/1-pembuatan-bot-telegram-pengenalan-aplikasi-dan-perangkat/)
+- [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
 <!-- BLOG-POST-LIST:END -->
 
 
