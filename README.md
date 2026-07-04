@@ -25,9 +25,9 @@ kenalkan saya rio(biasa dikenal balinux/yhotie)
 <!-- BLOG-POST-LIST:START -->
 - [Pola Bingo Skin KOF Mobile Legend 2025 real dari streamer](https://blog.yhotie.com/2025/03/pola-bingo-skin-kof-mobile-legend-2025.html)
 - [How to prevent GitHub from suspending your cronjob based triggers](https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf)
-- [How I built one of the top 20 most used Github Actions](https://www.gautamkrishnar.com/how-i-built-one-of-the-top-20-most-used-github-actions/)
 - [tahap melakukan tes genose di bandara ngurah rai bali](https://blog.yhotie.com/2021/04/tahap-melakukan-tes-genose-di-bandara.html)
 - [mengamankan mikrotik dari serangan bruteforce](https://blog.yhotie.com/2021/04/mengamankan-mikrotik-dari-serangan.html)
+- [Cara cepat agar blog diterima google adsense berpenghasilan 2021](https://blog.yhotie.com/2021/03/cara-cepat-agar-blog-diterima-google.html)
 <!-- BLOG-POST-LIST:END -->
 
 
